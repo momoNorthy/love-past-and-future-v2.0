@@ -1,0 +1,10 @@
+*.swp
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+*.ui
+*.pro
+*.user
+*.log
